@@ -1,7 +1,8 @@
 # executable file
 *
 !*.*
-!Makefile
+!*/
+!makefile
 
 # OS
 *.o
