@@ -1,4 +1,5 @@
 # OS
+*.o
 .DS_Store*
 ._*
 .Spotlight-V100
